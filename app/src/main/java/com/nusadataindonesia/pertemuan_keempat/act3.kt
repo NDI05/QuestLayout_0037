@@ -73,6 +73,7 @@ fun ActivitasPertama(modifier: Modifier){
                         stringResource(id = R.string.alamat),
                         fontSize = 20.sp,
                         color = Color.White,
+                        fontFamily = FontFamily.Cursive,
                         modifier=modifier
                             .padding(top = 10.dp)
                     )
